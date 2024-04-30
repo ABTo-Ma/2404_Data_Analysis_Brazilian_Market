@@ -19,6 +19,7 @@ The insights gained from the analysis had to be condensed into a 5-minute busine
 A successful analysis of the given data was conducted. Clear recommendations for business decisions, as well as future insights, were provided. Good teamwork was facilitated through communication and clear division of tasks. Expectations were met.
 ## Examples
 # Filtered SQL-Queries were implemented for substracting the key data:
+```
 /* Total amount earned by Tech sellers */
 SELECT
     ROUND(
@@ -36,7 +37,8 @@ SELECT
                 ('audio','consoles_games','electronics','computers_accessories'
 					,'computers','signaling_and_security','tablets_printing_image',
 					'telephony')),2
-    ) AS 'Earnings for sellers in Tech in the whole data set [€]';  
+    ) AS 'Earnings for sellers in Tech in the whole data set [€]';
+```  
 # Langauge challenges were also tasked by implementing special queries or understanding the organizational system in the database.
 # For visualization, graphs were made with condensed information
 <img width="586" alt="Screenshot 2024-04-30 at 16 54 33" src="https://github.com/ABTo-Ma/Analysis.Visualization_Brazilian_Market/assets/168551372/69e1ad74-48a4-4bbc-bb57-04d1eafdd8bd">

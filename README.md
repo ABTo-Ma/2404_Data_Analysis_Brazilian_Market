@@ -2,8 +2,8 @@
 As part of a learning exercise at WBS-Coding School, a fictitious case study was created. An online marketplace specializing in high-end technology products based in Spain is considering entering the Brazilian market. For this purpose, a partnership with a Brazilian company is under consideration.
 Using data analysis, a decision has to be made about the potential partnership. The results will be presented in a business presentation.
 ## About the project: resources, tools and colaboratores
-# Resoucres: 
--- Database provided by the Brazilian company
+# Resources: 
+Database provided by the Brazilian company
 # Tools:
 MySQLWorkbench with SQL-Language and Tableau
 # Colaboratores:

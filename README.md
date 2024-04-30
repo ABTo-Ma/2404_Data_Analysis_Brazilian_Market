@@ -39,6 +39,6 @@ SELECT
 					'telephony')),2
     ) AS 'Earnings for sellers in Tech in the whole data set [€]';
 ```  
-# Langauge challenges were also tasked by implementing special queries or understanding the organizational system in the database.
+Langauge challenges were also tasked by implementing special queries or understanding the organizational system in the database.
 # For visualization, graphs were made with condensed information
 <img width="586" alt="Screenshot 2024-04-30 at 16 54 33" src="https://github.com/ABTo-Ma/Analysis.Visualization_Brazilian_Market/assets/168551372/69e1ad74-48a4-4bbc-bb57-04d1eafdd8bd">
